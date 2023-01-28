@@ -5,8 +5,9 @@ import Box from '@mui/material/Box';
 import Link from '../src/Link';
 import ProTip from '../src/ProTip';
 import Copyright from '../src/Copyright';
+import { type EmotionJSX } from '@emotion/react/types/jsx-namespace';
 
-export default function Home() {
+export default function Home(): EmotionJSX.Element {
   return (
     <Container maxWidth="lg">
       <Box

@@ -1,4 +1,15 @@
-# Next.js with TypeScript example
+# Next.js with TypeScript example with Eslint & Prettier
+
+(Origin: Next.js with TypeScript example )
+
+## What this repo difference exists?
+
+This repo add developer experience for newbies.
+
+- Add eslint in the project and make the lints work with React
+- Add prettier support and combine with eslint
+- Modify default files for linters and formatters
+- Add useful developer settings for vscode
 
 ## How to use
 
